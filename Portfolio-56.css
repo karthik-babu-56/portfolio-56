@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    padding-left: 10px;
+}
+
+.bg-color {
+    background-color: #616e7e;
+    height: 100vh;
+    width: 100vw;
+}
+
+.homepage_nameinfo {
+    padding-top: 80px;
+    padding-right: 60px;
+    padding-left: 40px;
+}
+
+.profile_pic {
+    height: 300px;
+    width: 300px;
+}
+
+.about-section {
+    padding: 60px;
+    font-size: 30px;
+}
+
+.skill-section-page {
+    background-color: #616e7e;
+    height: 100vh;
+    width: 100vw;
+}
+
+.skill-section-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-section-card {
+    background-color: black;
+    height: 150px;
+    width: 300px;
+    border: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.skill-section-heading {
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.skill-section-para {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.skill-section-text {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.education-section-page {
+    background-color: #616e7e;
+    height: 100vh;
+}
+
+.education-section-heading {
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    border: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 200px;
+    height: 350px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+}
+
+.education-section-subeducation {
+    padding: 20px;
+}
+
+.contact-section-page {
+    height: 100vh;
+    background-color: #616e7e;
+}
+
+.contact-section-maincard {
+    height: 80vh;
+    width: 80vw;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.contact-section-heading {
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+    color: black;
+    border: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 250px;
+    height: 350px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.contact-section-content {
+    font-size: 25px;
+    color: white;
+
+}
